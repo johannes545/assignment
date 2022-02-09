@@ -1,0 +1,15 @@
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\assignment.exe
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\assignment.deps.json
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\assignment.runtimeconfig.json
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\assignment.dll
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\ref\assignment.dll
+C:\Users\Johannes\Desktop\assignment\assignment\bin\Debug\net6.0\assignment.pdb
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.dll
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\ref\assignment.dll
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.pdb
+C:\Users\Johannes\Desktop\assignment\assignment\obj\Debug\net6.0\assignment.genruntimeconfig.cache
